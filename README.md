@@ -31,8 +31,6 @@ A very simple Laravel 8 + Vue 2 + AdminLTE 3 based complaint management system.
 - Build with Docker
 
 ## Installation
-
-- `git clone https://github.com/ngoijr3107/complaint-system.git`
 - `cd complaint-system/`
 - `composer install`
 - `cp .env.example .env`
@@ -79,7 +77,3 @@ vendor/bin/phpunit --coverage-html reports/
 ```
 A `reports` directory has been created for code coverage report. Open the dashboard.html.
 
-
-## License
-
-[MIT license](https://opensource.org/licenses/MIT).
